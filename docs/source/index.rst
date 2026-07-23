@@ -13,3 +13,4 @@
    dopnik   
    convertFileProblem
    alta
+   1C-update
