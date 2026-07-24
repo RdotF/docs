@@ -15,4 +15,4 @@
    alta
    1C-update
    rdp
-   
+   cameras
