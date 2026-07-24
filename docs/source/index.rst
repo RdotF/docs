@@ -13,7 +13,6 @@
    dopnik   
    convertFileProblem
    alta
-   1C-update
-   cameras
    rdp
-
+   cameras
+   1C-update
