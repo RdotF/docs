@@ -15,4 +15,6 @@
    alta
    rdp
    cameras
+   timex
    1C-update
+   
