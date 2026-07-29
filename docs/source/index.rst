@@ -20,4 +20,5 @@
    dc
    1C-update
    kontur
+   print
    
