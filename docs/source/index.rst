@@ -21,4 +21,5 @@
    1C-update
    kontur
    print
+   net_map
    
