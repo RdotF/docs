@@ -21,5 +21,6 @@
    1C-update
    kontur
    print
-   net_map
    kerio
+   net_map
+   
