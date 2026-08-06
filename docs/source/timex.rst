@@ -86,7 +86,7 @@
 Номер карты и код указаны на физической карте сотрудника.
 
 
-.. image:: images/timex-6.jpeg
+.. image:: images/timex-6.jpg
    :alt: Номер карты на физической карте
    :align: center
    :width: 700px
