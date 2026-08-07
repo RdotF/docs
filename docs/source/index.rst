@@ -23,4 +23,4 @@
    print
    kerio
    net_map
-   rust
+   rustdesk
