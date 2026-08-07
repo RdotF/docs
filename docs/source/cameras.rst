@@ -46,7 +46,7 @@
    IP: 10.0.4.20
    Порты: 3080/3081
    Login: admin
-   Password: 3140Xyz!
+   Password: 3140Xyz1!
 
 
 Сервер 2
