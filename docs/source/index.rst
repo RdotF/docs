@@ -24,3 +24,4 @@
    kerio
    net_map
    rustdesk
+   pg
