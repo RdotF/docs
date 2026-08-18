@@ -20,8 +20,8 @@
    1C-update
    kontur
    print
-   kerio
    pg
+   kerio
    net_map
    rustdesk
    
