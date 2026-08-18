@@ -22,6 +22,7 @@
    kontur
    print
    kerio
+   pg
    net_map
    rustdesk
-   pg
+   
