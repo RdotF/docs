@@ -24,4 +24,4 @@
    kerio
    net_map
    rustdesk
-   
+   camset
